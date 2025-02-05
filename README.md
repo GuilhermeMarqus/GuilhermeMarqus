@@ -8,6 +8,12 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá, me chamo guilherme marques sou um desenvolvedor FullStack, no momento estou me graduando Sistemas de Informação.
 
+## &nbsp;My Stack
+
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github&theme=dark" />
+
+#
+
 <h3>Entrem em Contato Comigo</h3>
 <div align="left">
 <p>
